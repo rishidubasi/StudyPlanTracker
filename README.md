@@ -18,9 +18,9 @@ This Python-based Study Plan Tracker helps you manage your study goals efficient
 
 
 <h2>Screenshots</h2> </br>
-![Study Plan Progress Graph 1](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123843.png)
-![Study Plan Progress Graph 2](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123855.png)
-![Study Plan Progress Graph 3](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123924.png)
+<img src="https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123843.png" alt="" width="600px">
+<img src="https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123855.png" alt="" width="600px">
+<img src="https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123924.png" alt="" width="600px">
 
 
 
