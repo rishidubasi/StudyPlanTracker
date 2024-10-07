@@ -4,7 +4,7 @@ This Python-based Study Plan Tracker helps you manage your study goals efficient
 <h2>Features</h2> </br>
 <ul>
   
-<li><b> Dynamic goal adjustment:</b> Recalculates daily study targets based on your input.<li>
+<li><b> Dynamic goal adjustment:</b> Recalculates daily study targets based on your input.
 <li><b>Visual Progress:</b> Displays a line chart showing the actual study hours and the required study hours for the remaining days.</li>
 <li><b>Interactive Input: </b>Collects daily study hours and updates the progress accordingly.</li>
 </ul>
