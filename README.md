@@ -1,4 +1,4 @@
-**Study Plan Tracker**
+<h1>Study Plan Tracker</h1 </br>
 This Python-based Study Plan Tracker helps you manage your study goals efficiently. By updating your daily study hours, it dynamically recalculates the remaining study hours and adjusts the daily study goal. The tool also visualizes your progress using a graph for a better understanding of your performance over time.
 
 **Features**
@@ -13,7 +13,7 @@ Repeat the process until your study plan is completed.
 **Screenshots**
 ![Study Plan Progress Graph 1](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123843.png)
 ![Study Plan Progress Graph 2](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123855.png)
-![Study Plan Progress Graph 3](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123824.png)
+![Study Plan Progress Graph 3](https://github.com/rishidubasi/StudyPlanTracker/blob/main/Img/Screenshot%202024-10-07%20123924.png)
 
 
 
